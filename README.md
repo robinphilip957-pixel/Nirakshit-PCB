@@ -1,8 +1,14 @@
 # Nirakshit - Tunnel Mapping & Inspection PCB
 <p align="center">
-  <img src="3D PCB.png" alt="3D PCB" height="300"/> &nbsp;&nbsp;&nbsp;
-  <img src="3D PCB Top.png" alt="3D PCB Top" height="300"/>
+  <img src="Docs/3D PCB.png" alt="3D PCB" height="300"/> &nbsp;&nbsp;&nbsp;
+  <img src="Docs/3D PCB Top.png" alt="3D PCB Top" height="300"/>
 </p>
+
+<p align="center">
+  <img src="Docs/Reboot Certificate.png" alt="Reboot 2.0 Certificate - 2nd Place" width="600"/>
+</p>
+
+> 🏆 **2nd Place — Reboot 2.0 Hackathon, Riviera 2025, VIT Vellore**
 
 Nirakshit is a custom drone-mounted PCB fully designed and developed in EasyEDA Pro for the Reboot 2.0 Hackathon, hosted during Riviera 2025 at VIT Vellore, by Team Nirakshit. The team secured **2nd place** at the competition.
 
